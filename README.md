@@ -1,4 +1,4 @@
-Aerolink – AI Agent to Control PC via Telegram
+![IMG_6205](https://github.com/user-attachments/assets/36fe8dd6-3a32-4895-bb01-78f9ea60ecda)Aerolink – AI Agent to Control PC via Telegram
 Aerolink is an AI-powered automation system that allows you to control your PC remotely through Telegram commands. It integrates a custom Telegram bot with the Ollama AI model to interpret user requests and execute functions directly on the computer.
 
 ✨ Features
@@ -40,3 +40,5 @@ Remote PC monitoring and control
 Quick automation via chat interface
 
 AI-driven command interpretation for everyday tasks
+![IMG_6205](https://github.com/user-attachments/assets/8633c8df-a8fa-4536-a1d3-eaea6e2a73d7)
+
